@@ -1,5 +1,5 @@
 # Solar Panel Tracker
-Automatic solar panel tracker for rotaion solar panel based on illumination measurement
+Automatic solar panel tracker for rotation of solar panel based on illumination measurement
 
 The system is installed on solar panels with a rotation mechanism based on a DC motor. Designed to turn the solar panel towards higher illuminance to maximize luminous flux.
 
